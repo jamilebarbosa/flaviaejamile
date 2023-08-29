@@ -3,4 +3,8 @@
     --amarelo:#d7674df7; --fundo-azul:#23239de4;
     --lilas:
 }
+body{
+    background-color:var(--amarelo);
+    margin:0; font-family: var(--fonte-projeto);
+}
 
